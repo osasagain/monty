@@ -1,1 +1,1 @@
-VimCrypt~03!‡R]Ç²¼ö/æRÒbQº»Î«q,jdjT‚Í.ö­…"¯;HÏâØ½²×]ª<Æž5°¸
+0x19. C - Stacks, Queues - LIFO, FIFO
